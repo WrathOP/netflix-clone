@@ -1,0 +1,8 @@
+# bunfig.toml
+
+[paths]
+source = "src"
+output = "dist"
+
+[build]
+entry = "src/index.tsx"
